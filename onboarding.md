@@ -1,18 +1,5 @@
 # WA SOC Onboarding Procedure
 
-- [1. Overview](#1-overview)
-  - [1.1. Azure Subscription access](#11-azure-subscription-access)
-  - [1.2. Microsoft 365 tenant access](#12-microsoft-365-tenant-access)
-- [2. Onboarding Process](#2-onboarding-process)
-  - [2.1. Prerequisites](#21-prerequisites)
-  - [2.2. Microsoft 365 tenant access delegation](#22-microsoft-365-tenant-access-delegation)
-    - [2.2.1. Tier 0 Azure AD Group & Defender for Endpoint Roles](#221-tier-0-azure-ad-group--defender-for-endpoint-roles)
-    - [2.2.2. Tier 1 Azure AD Group & Defender for Endpoint Roles](#222-tier-1-azure-ad-group--defender-for-endpoint-roles)
-    - [2.2.3. Group and role assignment walkthrough](#223-group-and-role-assignment-walkthrough)
-  - [2.3. Azure Subscription access delegation](#23-azure-subscription-access-delegation)
-    - [2.3.1. Azure Lighthouse ARM Deployment](#231-azure-lighthouse-arm-deployment)
-- [3. Confirmation of Onboarding](#3-confirmation-of-onboarding)
-
 ## 1. Overview
 
 There are 2 delegations of access an operational security team would need to assist a customer with managing their security events and detection rules. Our customer offerings below have been constructed around the type of ongoing access and assistance required:
