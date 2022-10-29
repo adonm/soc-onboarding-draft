@@ -1,8 +1,3 @@
----
-Title: "WA SOC Onboarding"
-Author: "WA Security Operations Centre"
-Company: "github.com/wagov/soc-onboarding"
----
 # WA SOC Onboarding Procedure
 
 - [1. Overview](#1-overview)
